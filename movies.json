@@ -1,0 +1,74 @@
+[
+    {
+        "id": "01",
+        "title": "Blue Mask For Invisible People",
+        "rating": 8.2,
+        "awards": 3,
+        "length": "2h 01m",
+        "price": 122,
+        "genre": "suspense"
+    },
+    {
+        "id": "02",
+        "title": "The Art Of The Snoring Seal",
+        "rating": 9.8,
+        "awards": 821,
+        "length": "4h 12m",
+        "price": 534,
+        "genre": "terror"
+    },
+    {
+        "id": "03",
+        "title": "Sharks On Bikini And Sunglasses",
+        "rating": 7.7,
+        "awards": 1,
+        "length": "1h 49m",
+        "price": 670,
+        "genre": "comedy"
+    },
+    {
+        "id": "04",
+        "title": "Kill The Mosquito Tonight",
+        "rating": 5.6,
+        "awards": 2,
+        "length": "2h 50m",
+        "price": 236,
+        "genre": "drama"
+    },
+    {
+        "id": "05",
+        "title": "Surubi of The Monte: Recharged",
+        "rating": 8.6,
+        "awards": 13,
+        "length": "1h 55m",
+        "price": 187,
+        "genre": "adventure"
+    },
+    {
+        "id": "06",
+        "title": "The Italian Cheap Worker Of The Streets",
+        "rating": 4.7,
+        "awards": 0,
+        "length": "1h 46m",
+        "price": 678,
+        "genre": "terror"
+    },
+    {
+        "id": "07",
+        "title": "The Cat Is Under The Table",
+        "rating": 7.5,
+        "awards": 0,
+        "length": "1h 59m",
+        "price": 230,
+        "genre": "comedy"
+    },
+    {
+        "id": "08",
+        "title": "Flying Dinosaur Battle 2",
+        "rating": 9.2,
+        "awards": 22,
+        "length": "3h 50m",
+        "price": 567,
+        "genre": "sports"
+    }
+]
